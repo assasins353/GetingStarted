@@ -1,0 +1,32 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 6E4D-83C7
+
+ R‚pertoire de C:\Windows\SysWOW64\laravel5\GetingStarted
+
+12/03/2018  01:07    <DIR>          .
+12/03/2018  01:07    <DIR>          ..
+07/03/2018  22:21               893 .env
+28/02/2018  08:54               666 .env.example
+20/02/2018  22:58               111 .gitattributes
+13/03/2018  00:01                 0 .gitignore
+10/03/2018  19:50    <DIR>          app
+20/02/2018  22:58             1ÿ686 artisan
+10/03/2018  19:50    <DIR>          bootstrap
+01/03/2018  17:53             1ÿ585 composer.json
+01/03/2018  17:54           158ÿ514 composer.lock
+10/03/2018  19:50    <DIR>          config
+10/03/2018  19:50    <DIR>          database
+12/03/2018  21:47    <DIR>          GetingStarted
+20/02/2018  22:58             1ÿ150 package.json
+20/02/2018  22:58             1ÿ040 phpunit.xml
+10/03/2018  19:50    <DIR>          public
+20/02/2018  22:58             3ÿ622 readme.md
+10/03/2018  19:50    <DIR>          resources
+10/03/2018  19:50    <DIR>          routes
+20/02/2018  22:58               563 server.php
+10/03/2018  19:50    <DIR>          storage
+10/03/2018  19:50    <DIR>          tests
+10/03/2018  19:51    <DIR>          vendor
+20/02/2018  22:58               549 webpack.mix.js
+              12 fichier(s)          170ÿ379 octets
+              13 R‚p(s)  67ÿ728ÿ556ÿ032 octets libres
