@@ -4,9 +4,9 @@
 <!--[if gt IE 9]><!--> <html class="no-js" lang="fr"> <!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>ProTournoi</title>
+<title>Olympia</title>
 <meta name="description" content="">
-<meta name="author" content="ProTournoi">
+<meta name="author" content="Olympia">
 <meta name="robots" content="index, follow">
 <meta name="keywords" content="">
 <meta property="fb:page_id" content="645959818772006">
@@ -47,7 +47,7 @@ Admin Login
 
 <div class="block push-bit">
 
-<form action="{{ route('login') }}" method="post" id="form-login" class="form-horizontal form-bordered form-control-borderless">
+<form action="{{ route('admin.login') }}" method="post" id="form-login" class="form-horizontal form-bordered form-control-borderless">
     @csrf
 
 <input type="hidden" name="_csrf_token" value="I7PJlEs6jKU8HvJTT7WC_a54hhD883ZxyvQqI0zkFHA" />
